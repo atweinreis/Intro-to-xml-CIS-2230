@@ -18,14 +18,14 @@ custom orders for the past week
    <order>
       <customer>
          <name>
-            <firstName>Alex</firstName>
-            <lastName>Weinreis</lastName>
+            <firstName>John</firstName>
+            <lastName>Taylor</lastName>
          </name>
          <address>
             <addressLine1>123 Main Street</addressLine1>
-            <city>Glen Eyllen</city>
-            <state>IL</state>
-            <zip>60563</zip>
+            <city>Monona</city>
+            <state>WI</state>
+            <zip>53716</zip>
          </address>
       </customer>
       <productNumber>12345</productNumber>
